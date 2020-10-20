@@ -1,0 +1,47 @@
+body{
+    background-color: #141414;
+    margin: 0;
+}
+
+h1{
+    font-family: "helvetica";
+    color:aliceblue;
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 2px;
+    font-weight: 200;
+    
+}
+
+img{
+    align-items:center;
+    width: 15%;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+
+p{
+    font-family: "helvetica";
+    color: aliceblue;
+    text-align: center;
+}
+
+.navBar{
+    text-decoration-color: black;
+    color: black;
+    text-align: center;
+    background-color: #008080;
+    padding: 0px;
+    text-decoration: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    word-spacing: 5px;
+}
+
+a{
+    font-size: 18px;
+    color: black;
+    text-decoration: underline;
+    
+}
